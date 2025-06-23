@@ -1,4 +1,4 @@
-How to Resolve Total Defence Not Working?
+How to Resolve Total Defense Not Working?
 ============================================
 .
 .
